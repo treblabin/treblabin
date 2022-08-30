@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi👋 My name is Hyunbeen Kim
 
-My name is Hyunbeen Kim
+<br>
 
 Front-end Tech Stack
 
