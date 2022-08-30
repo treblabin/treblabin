@@ -2,7 +2,7 @@
 
 <br>
 
-Front-end Tech Stack
+### Front-end Tech Stack
 
 <br>
 
