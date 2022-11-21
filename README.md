@@ -2,7 +2,7 @@
 
 <br>
 
-### [🔗 Linked in >](https://www.linkedin.com/in/hyunbeen)
+### [🔗 LinkedIn >](https://www.linkedin.com/in/hyunbeen)
 
 <br>
 
