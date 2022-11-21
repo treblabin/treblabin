@@ -1,4 +1,4 @@
-### Hyunbeen Kim is a highly communicative and self-motivated front-end developer. He worked as a project manager and a lead front-end developer in Ribborn and successfully led teammates to complete the website project in 6 weeks.
+## Hyunbeen Kim is a highly communicative and self-motivated front-end developer. He worked as a project manager and a lead front-end developer in Ribborn and successfully led teammates to complete the website project in 6 weeks.
 
 <br>
 
