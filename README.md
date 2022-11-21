@@ -2,6 +2,10 @@
 
 <br>
 
+### [🔗 Linked in >](https://www.linkedin.com/in/hyunbeen)
+
+<br>
+
 ### Front-end Tech Stack
 
 <div>
