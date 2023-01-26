@@ -27,7 +27,6 @@
 </div>
 <div>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apollo Client&color=311C87&logo=Apollo+GraphQL&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label="/>
 </div>
 <div>
