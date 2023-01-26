@@ -1,4 +1,4 @@
-#### Hyunbeen Kim is a highly communicative and self-motivated front-end developer. He worked as a project manager and a lead front-end developer in Ribborn and successfully led teammates to complete the website project in 6 weeks.
+#### Hyunbeen Kim is a highly communicative and self-motivated Web developer. He is currently working at EarthLabs Inc as a Junior Full Stack Software Developer.
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-### Front-end Tech Stack
+### Tech Stack
 
 <div>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
