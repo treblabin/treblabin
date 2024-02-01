@@ -1,4 +1,4 @@
-#### Hyunbeen Kim is a highly communicative and self-motivated Web developer. He is currently working at EarthLabs Inc as a Junior Full Stack Software Developer.
+#### Hyunbeen Kim is a highly communicative and self-motivated Web developer. He is currently working at ABCStudio as a Junior Data Engineer / Software Developer.
 
 <br>
 
