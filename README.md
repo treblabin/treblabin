@@ -34,13 +34,13 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label="/>
 </div>
 <div>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label="/>
-<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-<div>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label="/>
+</div>
+<div>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 <div>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
