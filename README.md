@@ -1,4 +1,4 @@
-#### Hyunbeen Kim is a highly communicative and self-motivated software developer. He is currently working as a Software Engineer at ABCStudio.
+#### Hyunbeen Kim is a highly communicative and self-motivated software developer.
 
 <br>
 
